@@ -4,6 +4,8 @@
 
 ## Solution
 
+### Python
+
 ```python
 def diagonalDifference(arr):
     
