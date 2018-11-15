@@ -10,5 +10,6 @@ This is a repository of [HackerRank](https://www.hackerrank.com) coding practice
 - [Time Conversion](./Easy/time_conversion.md)
 
 ## Medium
+- [Leap Year](./Medium/leap_year.md)
 
 ## Hard
