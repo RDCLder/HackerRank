@@ -42,7 +42,7 @@
   - We must still adjust for where to start/stop counting.  In this case, the start/stop shifts down one.
   - This is due to the fact that python formats counting as ```start:up to but not including:step```.
 
-- Since every input is odd, we must account for this by either adjusting the change in each iteration.
+- Since every input is odd, we must account for this by adjusting the change in each iteration.
   - We could change the step size to 2 ```for i in range(start, stop, 2)```
   - We could utilize the fact that ```N // 2``` will return 1, 2, 3, etc. since the ```//``` operator rounds down.  (Chosen method).
 
